@@ -1,5 +1,7 @@
 # trace
 
+VUE+Element 基础应用
+
 ## Project setup
 ```
 npm install
